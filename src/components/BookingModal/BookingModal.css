@@ -1,0 +1,35 @@
+.room-details {
+  width: 70% !important;
+  text-align: left !important;
+  padding: 1em !important;
+}
+.room-details .ui .grid {
+  padding: 1em;
+  background: #f9fafb !important;
+}
+
+.label-form {
+  padding-right: 1em;
+  font-weight: bold;
+  color: black !important;
+}
+
+.flex {
+  margin-left: -1.3em;
+  display: flex;
+}
+
+.alignment {
+  display: flex;
+  text-align: center;
+}
+
+.header {
+  background: #f9fafb !important;
+}
+.footer {
+  background: #f9fafb !important;
+}
+.error {
+  color: red;
+}

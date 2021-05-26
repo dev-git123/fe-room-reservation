@@ -1,0 +1,20 @@
+/* .id {
+  padding-right: 3em;
+}
+
+.from {
+  padding-right: 6em;
+}
+
+.to {
+  padding-right: 7em;
+} */
+.ui.form .field > label {
+  display: flex;
+  background: transparent !important;
+}
+
+.error {
+  color: red !important;
+  min-height: 2em;
+}

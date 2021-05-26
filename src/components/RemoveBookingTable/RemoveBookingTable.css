@@ -1,0 +1,15 @@
+.ui.label {
+  background: transparent;
+}
+
+button {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.display-line {
+  display: flex;
+}

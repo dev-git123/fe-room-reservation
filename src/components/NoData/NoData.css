@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+
+.no-data {
+  color: #ce638a;
+}
